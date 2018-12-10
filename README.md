@@ -43,6 +43,8 @@ Detailed images and analysis of the data can be found in the DATA512_A6_Report.i
 
 Finding 1 : As expected, we see that the number of actors in the industry has always been higher than the number of actresses. The gap between the two looks to be highest just before 1960. While the situation looked to be improving for a while, the gap appears to have suddenly blown up in the last decade or so -- with a highly disproportionate number of actors dominating the scene as compared to actresses.
 
+![Diversity over the years](https://github.com/whamsy/data512-a6/tree/master/images/1.png "Map of Continental US Wildfires")
+
 Finding 2: Comparing the percentages gives a much cleare picture of how gender diversity has played out in the movies. The lowest percentage of actresses in the industry appears to be just before 1960 with a noticeable increase in the years following. There also appears to be a spike post 1990.
 
 Finding 3: By comparing statistics for 2017 alone, gender diversity in movies while not very high was still highly comparable to that of Amazon while significantly better than Facebook, Apple, Microsoft and Google. This was a little suprising for me because I would have expected movies to do a little worse than the tech firms, not better than most of them.
