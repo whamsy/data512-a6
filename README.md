@@ -68,3 +68,7 @@ Local copies of the data can also be stored.
 But IMDB prohibits data mining, robots, screen scraping, or similar data gathering and extraction tools. None of these techniques have been used to access the data, which has been downloaded from IMDB's public dataset [link](https://datasets.imdbws.com/).
 
 More information about non-commerical licensing is given on the IMDB [website](https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=3aefe545-f8d3-4562-976a-e5eb47d1bb18&pf_rd_r=BMZ4YZDQZXG5J9Y3H7RJ&pf_rd_s=center-1&pf_rd_t=60601&pf_rd_i=interfaces&ref_=fea_mn_lk1#).
+
+### Course Wiki
+
+Thanks to Jonathan and Os for a wonderful quarter! The wiki for this course can be found [here](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018))
