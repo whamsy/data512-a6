@@ -19,7 +19,7 @@ Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted fil
 
 The first line in each file contains headers that describe what is in each column. A ‘\\N’ is used to denote that a particular field is missing for that title/name --- ([reference](https://www.imdb.com/interfaces/)).
 
-The data for diversity statistics for companies were taken from their public posts on their sites at [Facebook](https://newsroom.fb.com/news/2018/07/diversity-report/), [Apple](https://www.apple.com/diversity/), [Google](https://diversity.google/annual-report/), [Microsoft](https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx) and [Amazon](https://www.amazon.com/b?ie=UTF8&node=10080092011)
+The data for diversity statistics for companies were taken from their public posts on their sites at [Facebook](https://newsroom.fb.com/news/2018/07/diversity-report/), [Apple](https://www.apple.com/diversity/), [Google](https://diversity.google/annual-report/), [Microsoft](https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx) and [Amazon](https://www.amazon.com/b?ie=UTF8&node=10080092011).
 
 ## Reproducibility
 
