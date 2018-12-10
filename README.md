@@ -19,9 +19,23 @@ Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted fil
 
 The first line in each file contains headers that describe what is in each column. A ‘\\N’ is used to denote that a particular field is missing for that title/name --- ([reference](https://www.imdb.com/interfaces/)).
 
-## Tools and Software Required
+## Reproducibility
+
+### Tools and Software Required
 
 A computer with python2 or python3 installed is required to reproduce this analysis. In addition, the libraries [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/) and [matplotlib](https://matplotlib.org/) are required. They can be installed using [pip]. For e.g. to install pandas, run  ```pip install pandas``` from your CLI.
+
+### Getting the data
+
+To get the entire dataset, please download the data from the IMDB [website](https://datasets.imdbws.com/). This will ensure you have the latest data available. You can either change the path for the source files in the notebook or ensure the files are in the same folder as the notebook and you should be good to go.
+
+You can also use the sample files in the data folder of this repository. This is a sample subset of the original data which is too big to host on Github.
+
+### Doing the analysis
+
+Simply run the 'DATA512_A6_Report.ipynb' notebook. First, download the notebook and navigate to that folder in the CLI. Then run ```jupyter notebook``` in the CLI and select this notebook in the window that opens. If jupyter notebook is not installed please follow instructions [here](http://jupyter.org/install).
+
+The analysis is very straightforward and well documented so you do not need to be a data scientist or very familiar with code to follow!
 
 ## Findings
 
