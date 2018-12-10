@@ -73,4 +73,4 @@ More information about non-commerical licensing is given on the IMDB [website](h
 
 ### Course Wiki
 
-Thanks to Jonathan and Os for a wonderful quarter! The wiki for this course can be found [here](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018))
+Thanks to Jonathan and Os for a wonderful quarter! The wiki for this course can be found [here](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)).
