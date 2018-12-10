@@ -1,0 +1,1 @@
+These files are subsets of the original data and contain 1% of the rows in the original files. Pandas [df.sample](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.sample.html) has been used to generate a random sample of the original datasets.
