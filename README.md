@@ -47,9 +47,15 @@ Finding 1 : As expected, we see that the number of actors in the industry has al
 
 Finding 2: Comparing the percentages gives a much cleare picture of how gender diversity has played out in the movies. The lowest percentage of actresses in the industry appears to be just before 1960 with a noticeable increase in the years following. There also appears to be a spike post 1990.
 
+![Diversity over the years](https://github.com/whamsy/data512-a6/blob/master/images/2.png)
+
 Finding 3: By comparing statistics for 2017 alone, gender diversity in movies while not very high was still highly comparable to that of Amazon while significantly better than Facebook, Apple, Microsoft and Google. This was a little suprising for me because I would have expected movies to do a little worse than the tech firms, not better than most of them.
 
+![Movies vs Global Tech](https://github.com/whamsy/data512-a6/blob/master/images/3.png)
+
 Finding 4 - If we compare gender diversity in movies in terms of actors/actresses to only tech force diversity in the tech industry then the movies outrank them all. Movies have around a 60/40 split leaning more towards actors, but the closest any tech firm comes is Apple with a mere 23% of their tech force comprised of females.
+
+![Movies vs Tech Workers only](https://github.com/whamsy/data512-a6/blob/master/images/5.png)
 
 In conclusion, It's tough to compare the two sectors, specially without more information of people behind the camera. Actors/actresses are a very small percentage of the movie industry and might not be representative of the industry at large. But if we consider only actors/actresses, there seems to be more diversity in the movies than tech companies specially when comparing only the tech working force.
 
